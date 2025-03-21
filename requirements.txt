@@ -2,4 +2,4 @@ plaintext
      flask==2.0.1
      requests==2.26.0
      numpy==1.21.2
-    
+    git+https://github.com/denisecase/datafun_venv_checker.git#egg=datafun_venv_checker
